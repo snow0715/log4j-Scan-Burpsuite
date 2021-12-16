@@ -11,6 +11,8 @@ Log4j漏洞（CVE-2021-44228）的Burpsuite检测插件
 
 自动替换GET请求参数
 
+单次发包仅替换一个参数
+
 # DNSLog
 https://log.xn--9tr.com/
 
