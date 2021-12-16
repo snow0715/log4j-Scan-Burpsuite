@@ -27,7 +27,7 @@ https://log.xn--9tr.com/
 
 Passively detect all traffic packets passing through Burpsuite, and manually send request packets that need to be detected for detection
 
-# 功能
+# 按钮
 
 通过开关按钮选择开启或关闭扫描功能，开启后所有通过Burpsuite的流量都将进行log4j漏洞检测（此处偶尔出现BUG，实际开关状态以文字显示为主）
 
