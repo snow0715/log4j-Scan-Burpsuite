@@ -1,8 +1,12 @@
 # log4j-Scan-Burpsuite
 Log4j漏洞（CVE-2021-44228）的Burpsuite检测插件
+包含开关(ON/OFF)、过滤(Filter)、发送(Send)
 
-功能：开关(ON/OFF)、过滤(Filter)、发送(Send)
-
+# 功能：
+自动替换请求头
+自动替换POST请求application/json参数
+自动替换POST请求application/x-www-urlencoded参数
+自动替换GET请求参数
 
 # DNSLog
 https://log.xn--9tr.com/
@@ -48,6 +52,5 @@ Select the request to be sent and right-click to send it to the log4j Scan plugi
 ![image](https://user-images.githubusercontent.com/54879520/146351539-4dc42228-424a-47aa-a35d-8ba4275f61a0.png)
 
 
-本工具仅供学习研究自查使用，切勿用于非法用途，由使用该工具产生的一切风险均与本人无关！
-
-This tool is only for study, research and self-examination, and should not be used for illegal purposes. 
+# 免责声明
+请勿将本项目技术或代码应用在恶意软件制作、软件著作权/知识产权盗取或不当牟利等非法用途中。实施上述行为或利用本项目对非自己著作权所有的程序进行数据嗅探将涉嫌违反《中华人民共和国刑法》第二百一十七条、第二百八十六条，《中华人民共和国网络安全法》《中华人民共和国计算机软件保护条例》等法律规定。本项目提及的技术仅可用于私人学习测试等合法场景中，任何不当利用该技术所造成的刑事、民事责任均与本项目作者无关。
