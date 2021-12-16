@@ -1,17 +1,18 @@
 # log4j-Scan-Burpsuite
 Log4j漏洞（CVE-2021-44228）的Burpsuite检测插件
 
-使用DNSLog站点为 https://log.xn--9tr.com/
+#DNSLog
+https://log.xn--9tr.com/
 
-插件页面展示
+#插件页面展示
 ![image](https://user-images.githubusercontent.com/54879520/146352797-9211458b-989e-4386-80a3-40f38a1e3d47.png)
 ![image](https://user-images.githubusercontent.com/54879520/146352764-86d3c09f-f6d6-4107-867a-4e7860547959.png)
 
 
-使用
+#使用
 ![image](https://user-images.githubusercontent.com/54879520/146351539-4dc42228-424a-47aa-a35d-8ba4275f61a0.png)
 
-功能
+#功能
 
 通过开关按钮选择开启或关闭扫描功能，开启后所有通过Burpsuite的流量都将进行log4j漏洞检测（此处偶尔出现BUG，实际开关状态以文字显示为主）
 ![image](https://user-images.githubusercontent.com/54879520/146351788-4233ddba-e2a1-46ef-9323-01ad14a6dc12.png)
