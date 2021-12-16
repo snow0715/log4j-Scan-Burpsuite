@@ -4,8 +4,11 @@ Log4j漏洞（CVE-2021-44228）的Burpsuite检测插件
 
 # 功能：
 自动替换请求头
+
 自动替换POST请求application/json参数
+
 自动替换POST请求application/x-www-urlencoded参数
+
 自动替换GET请求参数
 
 # DNSLog
