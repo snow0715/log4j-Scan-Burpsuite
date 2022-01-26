@@ -25,7 +25,7 @@ https://log.xn--9tr.com/
 
 # 插件页面展示
 
-![image](https://user-images.githubusercontent.com/54879520/146352797-9211458b-989e-4386-80a3-40f38a1e3d47.png)
+![image](https://user-images.githubusercontent.com/54879520/151101186-5eef97b9-8bc8-4bd2-94ea-69deaf2cf5cc.png)
 ![image](https://user-images.githubusercontent.com/54879520/146352764-86d3c09f-f6d6-4107-867a-4e7860547959.png)
 
 
