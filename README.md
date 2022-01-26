@@ -15,7 +15,9 @@ Log4j漏洞（CVE-2021-44228）的Burpsuite检测插件
 
 # 2022.1.26
 1、新增Cookie字段检测，依次替换Cookie参数
+
 2、修复按钮显示异常BUG
+
 3、更新UI为英文
 
 # DNSLog
